@@ -1,2 +1,5 @@
+# Pregunta 1
+
+a) es una herramienta que registra los cambios realizados en archivos a lo largo del tiempo
 
 
