@@ -22,4 +22,4 @@ El área de preparación es un espacio intermedio entre el área de trabajo y el
 Es donde Git almacena toda la información del proyecto.
 
 # Pregunta 5
-Se utilizan principalmente para permitir un desarrollo paralelo y organizado dentro de un proyecto
+Se utilizan principalmente para permitir un desarrollo paralelo y organizado dentro de un proyecto.
